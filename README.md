@@ -4,11 +4,8 @@
 # install dependencies
 $ npm install # Or yarn install
 
-# serve with hot reload at localhost:3000, using local API
-$ npm run dev:local
-
-# serve with hot reload at localhost:3000, using production API
-$ npm run dev:production
+# serve with hot reload at localhost:3000
+$ npm run dev
 
 # build for production and launch server
 $ npm run build
