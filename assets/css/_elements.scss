@@ -1,0 +1,10 @@
+.Box {
+  margin: 1em 0;
+  background-color: #f9fff8;
+  color: #222;
+  border: 1px solid black;
+
+  &__payload {
+    padding: 1em;
+  }
+}
